@@ -77,7 +77,7 @@ function Navigation() {
                 textTransform: "uppercase",
               }}
             >
-              Trading Plus
+              Trading+
             </Typography>
           </Box>
 
